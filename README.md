@@ -1,0 +1,1 @@
+This project was to use HTML and CSS to style the homepage of Google. It took playing with the HTML and ids/classes to get the effects right. I learned about centering elements, creating navigation bars in both the header and the footer, as well as styling different buttons. 
